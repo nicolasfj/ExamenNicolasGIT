@@ -1,7 +1,8 @@
 public class Persona {
 	public String nombre;
 	private String apellido;
-
+	//Descripción: interfaz persona
+	//Autor: Nicolas Fernandez Jimenez
 	public Persona(String nombre, String apellido) {
 		this.nombre = nombre;
 		this.apellido = apellido;
@@ -23,3 +24,4 @@ public class Persona {
 		this.apellido = apellido;
 	}
 }
+//Nicolás Fernández Jiménez
