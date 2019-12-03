@@ -1,7 +1,7 @@
 public class Persona {
 	public String nombre;
 	private String apellido;
-
+	//Descripción: interfaz persona
 	public Persona(String nombre, String apellido) {
 		this.nombre = nombre;
 		this.apellido = apellido;
