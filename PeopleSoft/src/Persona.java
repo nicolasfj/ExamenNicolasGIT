@@ -24,3 +24,4 @@ public class Persona {
 		this.apellido = apellido;
 	}
 }
+//Nicolás Fernández Jiménez
